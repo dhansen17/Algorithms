@@ -1,0 +1,4 @@
+﻿  Source.cpp
+\\cs1\students\2017\dhansen17\adv.alg\banking\banking\source.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  banking.vcxproj -> \\CS1\students\2017\dhansen17\Adv.Alg\banking\Debug\banking.exe
+  banking.vcxproj -> \\CS1\students\2017\dhansen17\Adv.Alg\banking\Debug\banking.pdb (Full PDB)
